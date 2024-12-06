@@ -1,0 +1,96 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>insurance</Database>
+    <Server>TABLET-LL5HTTRV\MSSQLSERVER02</Server>
+    <ConnectionString>Data Source=TABLET-LL5HTTRV\MSSQLSERVER02;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>pNPY2QZuFHjVRSYd0wvpldUmiJ0=24/11/2024 21:56:5624/11/2024 21:32:36</TimeStamp>
+        <ID>
+          <String>Insurance</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>meXJKhs0hKwbryhbaBrrCHW0X/A=24/11/2024 21:33:0924/11/2024 21:33:09</TimeStamp>
+        <ID>
+          <String>Insurance</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>LnvXQ1eRP7du5SyaELRFguYepUg=24/11/2024 21:43:3024/11/2024 21:33:54</TimeStamp>
+        <ID>
+          <String>DATE</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>FL2EaD5jGrCvCLX0OMZ4NbYn+oI=24/11/2024 21:36:3124/11/2024 21:33:54</TimeStamp>
+        <ID>
+          <String>JUNK</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>rCHDsDd0PCgbtzqlfZ+ePsuBs+k=24/11/2024 21:36:3124/11/2024 21:33:54</TimeStamp>
+        <ID>
+          <String>CATEGORY</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>KiCdXA3/jbXTDD1GCVMhav8NTVk=25/11/2024 18:16:1925/11/2024 18:16:19</TimeStamp>
+        <ID>
+          <String>EVALUATOR</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>urPAvFcIuvzuUYVbR/zvglUJzBo=25/11/2024 19:43:4125/11/2024 19:43:41</TimeStamp>
+        <ID>
+          <String>DEPARTMENT</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>hCPejvVTNTxpPl+/0fhIywBstLY=25/11/2024 19:43:5725/11/2024 19:43:57</TimeStamp>
+        <ID>
+          <String>SENIORITY</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>t1QgDsh0vgzV87t5SjStiyUZpX0=25/11/2024 20:16:4425/11/2024 18:15:03SEXq0JJdUztVR6ZgTczV5ezCzIQ=25/11/2024 20:11:2925/11/2024 18:15:03</TimeStamp>
+        <ID>
+          <String>Insurance</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>28aTbAN+hfO03M8UYQJkJUQkDfE=24/11/2024 21:27:4224/11/2024 21:27:38</TimeStamp>
+      <ID>
+        <String>insurance</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-11-25T19:16:48.78Z</LastDeployed>
+</DeploymentSnapshot>
