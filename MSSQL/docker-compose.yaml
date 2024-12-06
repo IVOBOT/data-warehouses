@@ -1,0 +1,14 @@
+services:
+    hd-mssql:
+        image: mcr.microsoft.com/mssql/server:2022-latest
+        restart: always
+        container_name: hd-mssql
+        ports:
+            - "1433:1433"
+        environment:
+        SA_PASSWORD: "YourStrong!Passw0rd"
+        ACCEPT_EULA: "Y"
+        volumes:
+            - ./db:/var/opt/mssql
+            - ./scripts:/scripts
+            - ./data:/data
