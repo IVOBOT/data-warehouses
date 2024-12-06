@@ -7,6 +7,7 @@ FROM
 		VALUES 
 			  ('yes')
 			, ('no')
-			, ('pending')
 	  )
 	AS IsAccepted(k);
+
+SELECT * FROM JUNK;

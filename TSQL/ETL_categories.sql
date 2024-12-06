@@ -25,3 +25,5 @@ MERGE INTO Category as TT
 			;
 
 Drop View vETLCategoriesData;
+
+SELECT * FROM Category;

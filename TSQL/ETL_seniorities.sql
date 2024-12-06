@@ -34,7 +34,7 @@ go
 CREATE VIEW vETLSeniorityData
 AS
 SELECT DISTINCT
-	IIF(DATEDIFF(DAY, IIF(StartDate IS NULL,'2000-12-31', StartDate), EndDate) > 365, Position + ' - long', Position + ' - short') as seniority
+	IIF(DATEDIFF(day, IIF(StartDate IS NULL,'2000-12-31', StartDate), EndDate) > 365, Position + ' - long', Position + ' - short') as seniority
 FROM dbo.EmployeesTemp;
 go
 
@@ -52,3 +52,5 @@ MERGE INTO Seniority as TT
 					DELETE
 			;
 Drop View vETLSeniorityData;
+
+SELECT * FROM SENIORITY;

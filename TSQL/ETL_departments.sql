@@ -53,3 +53,5 @@ MERGE INTO Department as TT
 			;
 
 Drop View vETLDepartmentData;
+
+SELECT * FROM DEPARTMENT;
