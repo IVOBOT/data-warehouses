@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\Insurance.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|solutionrelative:lab4hd_02\\Insurance.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\CATEGORY.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|solutionrelative:lab4hd_02\\CATEGORY.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\EVALUATOR.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|solutionrelative:lab4hd_02\\EVALUATOR.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\JUNK.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|solutionrelative:lab4hd_02\\JUNK.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\DATE.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|solutionrelative:lab4hd_02\\DATE.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\Insurance.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{236A4937-3F5C-4624-879C-EA2FC481CFB2}|lab4hd_02\\lab4hd_02.dwproj|solutionrelative:lab4hd_02\\Insurance.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EVALUATOR.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\EVALUATOR.dim",
+              "RelativeDocumentMoniker": "lab4hd_02\\EVALUATOR.dim",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\EVALUATOR.dim [Design]",
+              "RelativeToolTip": "lab4hd_02\\EVALUATOR.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-26T12:34:39.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CATEGORY.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\CATEGORY.dim",
+              "RelativeDocumentMoniker": "lab4hd_02\\CATEGORY.dim",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\CATEGORY.dim [Design]",
+              "RelativeToolTip": "lab4hd_02\\CATEGORY.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T18:29:10Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JUNK.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\JUNK.dim",
+              "RelativeDocumentMoniker": "lab4hd_02\\JUNK.dim",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\JUNK.dim [Design]",
+              "RelativeToolTip": "lab4hd_02\\JUNK.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T18:29:01.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DATE.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\DATE.dim",
+              "RelativeDocumentMoniker": "lab4hd_02\\DATE.dim",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\DATE.dim [Design]",
+              "RelativeToolTip": "lab4hd_02\\DATE.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T18:28:52.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Insurance.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\Insurance.cube",
+              "RelativeDocumentMoniker": "lab4hd_02\\Insurance.cube",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\Insurance.cube [Design]",
+              "RelativeToolTip": "lab4hd_02\\Insurance.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T18:28:39.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Insurance.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\Insurance.dsv",
+              "RelativeDocumentMoniker": "lab4hd_02\\Insurance.dsv",
+              "ToolTip": "C:\\Users\\micha\\source\\repos\\lab4hd_02\\lab4hd_02\\Insurance.dsv [Design]",
+              "RelativeToolTip": "lab4hd_02\\Insurance.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-25T18:28:11.273Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
