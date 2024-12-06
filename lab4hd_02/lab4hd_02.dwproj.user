@@ -3,7 +3,7 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
-        <TargetServer>TABLET-LL5HTTRV\MSSQLSERVER02</TargetServer>
+        <TargetServer>ASUS-GL502VM</TargetServer>
         <TargetDatabase>insurance</TargetDatabase>
         <StartObject>
           <ObjectId></ObjectId>

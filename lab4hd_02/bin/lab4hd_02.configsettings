@@ -6,7 +6,7 @@
         <ConnectionString>Provider=SQLNCLI11.1;Data Source=TABLET-LL5HTTRV\MSSQLSERVER02;Integrated Security=SSPI;Initial Catalog=Insurance</ConnectionString>
         <ImpersonationInfo>
           <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateAccount</ImpersonationMode>
-          <Account xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">micha</Account>
+          <Account xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">karol</Account>
           <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">PasswordRemoved</ImpersonationInfoSecurity>
         </ImpersonationInfo>
       </DataSource>
@@ -23,6 +23,12 @@
       </Dimension>
       <Dimension>
         <ID>EVALUATOR</ID>
+      </Dimension>
+      <Dimension>
+        <ID>DEPARTMENT</ID>
+      </Dimension>
+      <Dimension>
+        <ID>SENIORITY</ID>
       </Dimension>
     </Dimensions>
     <Cubes>
